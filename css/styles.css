@@ -32,6 +32,13 @@
   text-align: center;
 }
 
+#hamster {
+  float: left;
+  display: block;
+  border: 1px solid black;
+  width: 25%;
+}
+
 .term {
   font-weight: bold;
   text-transform: uppercase;
