@@ -4,30 +4,34 @@
 }
 
 #sidebar A:link {
-  color: rgb(80, 86, 118);
+  color: rgb(171, 171, 171);
+  text-transform: uppercase;
 }
 
 #sidebar ul A:hover {
-  color: rgb(203, 204, 206);
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
 }
 
 #sidebar A:visited {
-  color: rgb(113, 113, 113);
+  color: rgb(186, 186, 186);
+  text-transform: uppercase;
 }
 
 #sidebar A:active {
   color: white;
+  text-transform: uppercase;
 }
 
-#hobbies {
-  display: block;
-  margin: auto;
-  width: 40%;
+#sidebar h2 {
+  font-weight: bold;
+  text-align: center;
 }
 
 #about {
   text-align: center;
 }
+
 
 .term {
   font-weight: bold;
@@ -68,15 +72,21 @@
 A:link {
   color: darkslategrey;
   text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 A:visited {
   color: darkslategrey;
   text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 A:hover {
   color: rgb(104, 105, 128);
   text-decoration: none;
+  text-transform: uppercase;
 }
 A:active {
   color:#363c41;
+  text-transform: uppercase;
 }
