@@ -30,7 +30,7 @@ git clone https://github.com/bordonj/portfolio-landing-page.git
 
 ## Known Bugs
 
-* _On the DevTools console, there is a warning that displays "DevTools failed to load SourceMap: Could not load content for file:///Users/jenniferbordon/Desktop/portfolio-landing-page/css/bootstrap.css.map: System error: net::ERR_FILE_NOT_FOUND", however, the bootstrap.css file is accessible on the index.html webpage
+* _On the DevTools console, there is a warning that displays _"DevTools failed to load SourceMap: Could not load content for file:///Users/jenniferbordon/Desktop/portfolio-landing-page/css/bootstrap.css.map: System error: net::ERR_FILE_NOT_FOUND_", however, the bootstrap.css file is accessible on the index.html webpage
 
 ## License
 
