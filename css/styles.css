@@ -62,7 +62,6 @@
   text-align: center;
 }
 
-
 #hamster {
   float: left;
   display: block;
@@ -115,17 +114,20 @@ A:link {
   font-weight: bold;
   text-transform: uppercase;
 }
+
 A:visited {
   color: darkslategrey;
   text-decoration: none;
   font-weight: bold;
   text-transform: uppercase;
 }
+
 A:hover {
   color: rgb(104, 105, 128);
   text-decoration: none;
   text-transform: uppercase;
 }
+
 A:active {
   color:#363c41;
   text-transform: uppercase;
