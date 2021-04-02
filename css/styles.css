@@ -8,6 +8,20 @@
   text-transform: uppercase;
 }
 
+#profilelink2 ul {
+  font-size: 25px;
+}
+
+#profilelink2 ul A:hover {
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+}
+#projlink {
+  background-color: black;
+  width: auto;
+  display: block;
+}
+
 #sidebar {
   background-color: #363c41;
   color: white;
