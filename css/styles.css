@@ -37,6 +37,7 @@
   display: block;
   border: 1px solid black;
   width: 25%;
+  margin-right: 10px;
 }
 
 .term {
