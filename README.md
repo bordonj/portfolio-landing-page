@@ -27,6 +27,11 @@ git clone https://github.com/bordonj/portfolio-landing-page.git
 * Upon looking at the webpage in the browser, you can navigate other projects by clicking links on the left sidebar
 * To read about me and my background, please refer to index.html page, and scroll down
 
+## Github Pages link
+
+[Click here](https://bordonj.github.io/portfolio-landing-page/) for the Github Pages link. 
+
+Alternatively, you can type "https://bordonj.github.io/portfolio-landing-page/" in your web browser as well.
 
 ## Known Bugs
 
