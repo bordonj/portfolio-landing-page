@@ -7,7 +7,8 @@
 ## Technologies Used
 
 * _HTML_
-* _CSS_ - _**Bootstrap**_ and a personal one 
+* _CSS_ 
+* _Bootstrap_
 
 
 ## Description
